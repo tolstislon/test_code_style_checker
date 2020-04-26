@@ -1,0 +1,9 @@
+[flake8]
+exclude = .pytest_cache, .idea, .git, response, meta, meta*, wallets, conftest.py, session.py, user_types.py
+ignore = C408, T003, N803, C812, C814, C815, W504, B009, B010, F999, E231, E203
+max-line-length = 120
+show-source = True
+max-complexity = 8
+count = True
+import-order-style = pycharm
+application-import-names = tests

@@ -1,0 +1,13 @@
+/.idea/
+/.env
+/.git/
+/.pytest_cache/
+**/.pytest_cache/
+/__pycache__/
+**/__pycache__/
+.gitignore
+README.md
+.dockerignore
+build.sh
+README.md
+Dockerfile
